@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# Model weights (auto-downloaded at runtime)
+*.pt
+
+# Docs (not needed in container)
+DEPLOYMENT.md
+README.md
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Old config (now in .streamlit/)
+config.toml
+packages.txt
