@@ -25,6 +25,7 @@ README.md
 Thumbs.db
 .DS_Store
 
-# Old config (now in .streamlit/)
-config.toml
+# Old config (now in .streamlit/) — anchored to repo root only,
+# so this does NOT also match .streamlit/config.toml
+/config.toml
 packages.txt
