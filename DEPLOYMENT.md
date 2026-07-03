@@ -38,6 +38,7 @@ Docker/VM, both covered below.
 
 ---
 
+
 ## Option A — Streamlit Community Cloud (free, fastest to set up, best for a demo)
 
 1. **Push this folder to a public (or private, on paid GitHub) GitHub repo.**
